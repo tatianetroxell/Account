@@ -1,0 +1,6 @@
+Client Name: Tatiane
+Account Number: 456720785
+Account Type: Reserve
+Deposit amount: +$0     1/30/2017 3:32:38 AM
+Withdraw amount: -$0     1/30/2017 3:32:38 AM
+Account Balance: +$251.17

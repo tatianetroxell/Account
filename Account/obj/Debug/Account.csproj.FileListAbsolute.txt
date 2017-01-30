@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3\Account\Account\bin\Debug\Account.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3\Account\Account\bin\Debug\Account.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3\Account\Account\bin\Debug\Account.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3\Account\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3\Account\Account\obj\Debug\Account.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3\Account\Account\obj\Debug\Account.pdb

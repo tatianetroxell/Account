@@ -1,0 +1,6 @@
+Client Name: Tatiane
+Account Number: 456720785
+Account Type: Checking
+Deposit amount: +$45     1/30/2017 3:32:38 AM
+Withdraw amount: -$32     1/30/2017 3:32:38 AM
+Account Balance: +$858.78
